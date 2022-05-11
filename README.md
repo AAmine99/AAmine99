@@ -1,6 +1,10 @@
 ### Hi there 👋
 
----
+### Connect with me:
+
+[![Zhihu Badge](https://img.shields.io/badge/-@XunzhuoTalk-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=Zhihu&logoColor=white&link=https://zhihu.com/people/liuxunzhuo/)](https://zhihu.com/people/liuxunzhuo/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mixdeers@gmail.com)](mailto:mixdeers@gmail.com) [![Linkedin Badge](https://img.shields.io/badge/-liuxunzhuo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bitliu/)](https://www.linkedin.com/in/bitliu/) [![Twitter Badge](https://img.shields.io/badge/-liuxunzhuo-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/liuxunzhuo)](https://twitter.com/liuxunzhuo) ![Profile View Counter](https://komarev.com/ghpvc/?username=Xunzhuo)
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -10,23 +14,6 @@
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-### Connect with me:
-
-[![website](./img/globe-light.svg)](https://codestackr.com#gh-light-mode-only)
-[![website](./img/globe-dark.svg)](https://codestackr.com#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/youtube-light.svg)](https://youtube.com/codestackr#gh-light-mode-only)
-[![website](./img/youtube-dark.svg)](https://youtube.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/twitter-light.svg)](https://twitter.com/codestackr#gh-light-mode-only)
-[![website](./img/twitter-dark.svg)](https://twitter.com/codestackr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/linkedin-light.svg)](https://linkedin.com/in/codeSTACKr#gh-light-mode-only)
-[![website](./img/linkedin-dark.svg)](https://linkedin.com/in/codeSTACKr#gh-dark-mode-only)
-&nbsp;&nbsp;
-[![website](./img/instagram-light.svg)](https://instagram.com/codeSTACKr#gh-light-mode-only)
-[![website](./img/instagram-dark.svg)](https://instagram.com/codeSTACKr#gh-dark-mode-only)
 
 
 ### 🔧 Languages and Tools:
@@ -40,7 +27,6 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
-<img align="left" alt="Liquid" width="26px" src="https://images.marketpath.com/9dda7041-2870-4a96-bf1e-dd8342e86e7c/image/0237aecb-a2a2-45ab-90ee-55b6c5486482/liquid-markup.png" style="padding-right:10px;" />
 </div>
 
 
