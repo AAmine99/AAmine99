@@ -17,6 +17,9 @@
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="26px" src="https://litextension.com/blog/wp-content/uploads/2022/03/Shopify-Logo-1.png" style="padding-right:10px;" />
+
+### My stats:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAmine99)](https://github.com/anuraghazra/github-readme-stats)
 
