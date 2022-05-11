@@ -12,7 +12,7 @@
 - ⚡ Fun fact: ...
 
 
-### Languages and Tools:
+### 🔧 Languages and Tools:
 
 <div style="display:flex;align-items:center">
 
@@ -30,7 +30,7 @@
 <br />
 
 
-### My stats:
+### 📈 My stats:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AAmine99&layout=compact)
 
