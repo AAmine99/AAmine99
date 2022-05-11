@@ -14,6 +14,8 @@
 
 ### Languages and Tools:
 
+<div style="display:flex;align-items:center">
+
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />
 <img align="left" alt="CSS3" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" />
@@ -21,7 +23,8 @@
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
 <img align="left" alt="GitHub" width="26px" src="https://user-images.githubusercontent.com/3369400/139447912-e0f43f33-6d9f-45f8-be46-2df5bbc91289.png" style="padding-right:10px;" />
 <img align="left" alt="Shopify" width="25px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
-<img align="left" alt="Shopify" width="25px" src="https://images.marketpath.com/9dda7041-2870-4a96-bf1e-dd8342e86e7c/image/0237aecb-a2a2-45ab-90ee-55b6c5486482/liquid-markup.png" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="26px" src="https://images.marketpath.com/9dda7041-2870-4a96-bf1e-dd8342e86e7c/image/0237aecb-a2a2-45ab-90ee-55b6c5486482/liquid-markup.png" style="padding-right:10px;" />
+</div>
 
 
 <br />
