@@ -32,7 +32,7 @@
 
 <br /><br />
 
-### 📫 Languages and Tools:
+### 📫 Contact me:
 You can reach out to me through email or in my github profile!
 
 [<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/socials/linkedin.png" height="40em" align="center" alt="Follow Raymo111 on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://linkedin.com/in/Raymo111)
