@@ -1,10 +1,13 @@
 # <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey There !<br>
 
-### I'm John a Shopify developer <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
+### I'm X a Shopify developer <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
+Do you need ecommerce or shopify development? 
+Get your store setup on Shopify quickly and easily without any hassle. So that you can focus on making sales instead of setting up pages.
+Unlike other developers, I only work with Shopify and my main abilities are store setup and theme editing.
+I'm experienced in working with HTML, CSS, JavaScript, and liquid (Shopify's templating language).
+Feel free to reach out if you have a question about my services or if you just want to say hi. 
 
 **👨‍💻 My services** 
 
