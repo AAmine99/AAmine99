@@ -3,8 +3,8 @@
 ### I'm X a Shopify developer <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
 
 
-Do you need an ecommerce website or custom shopify development? <br>
-Get your store setup on Shopify quickly and easily without any hassle. <br>
+Do you need an eCommerce website or custom Shopify  development? <br>
+Get your store set up on Shopify quickly and easily without any hassle. <br>
 So that you can focus on making sales instead of setting up pages.<br><br>
 
 Unlike other developers, I only work with Shopify and my main skills are store setup and theme editing.<br>
