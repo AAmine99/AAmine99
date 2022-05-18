@@ -3,11 +3,15 @@
 ### I'm X a Shopify developer <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
 
 
-Do you need ecommerce or shopify development? 
-Get your store setup on Shopify quickly and easily without any hassle. So that you can focus on making sales instead of setting up pages.
-Unlike other developers, I only work with Shopify and my main abilities are store setup and theme editing.
-I'm experienced in working with HTML, CSS, JavaScript, and liquid (Shopify's templating language).
-Feel free to reach out if you have a question about my services or if you just want to say hi. 
+Do you need an ecommerce website or custom shopify development? <br>
+Get your store setup on Shopify quickly and easily without any hassle. <br>
+So that you can focus on making sales instead of setting up pages.<br><br>
+
+Unlike other developers, I only work with Shopify and my main skills are store setup and theme editing.<br>
+I'm experienced in working with HTML, CSS, JavaScript, and liquid (Shopify's templating language).<br>
+For examples of what I can build for you, you can take a look at my [personal website.](https://google.com)
+<br><br>
+***Feel free to reach out if you have a question about my services or if you just want to say hi.*** 
 
 **👨‍💻 My services** 
 
