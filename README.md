@@ -1,11 +1,6 @@
-# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey There !<br>
+# <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="30"> Hey There, nice to see you! :-)<br>
 
-### I'm X a Shopify developer <img align="left" alt="Shopify" width="23px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
-
-
-Do you need an eCommerce website or custom Shopify  development? <br>
-Get your eCommerce store up and running on Shopify quickly and professionally. <br>
-So that you can focus on growing your business rather than setting up pages.<br><br>
+### Welcome to my page. I'm X, a Shopify Web-Developer from <img src="./united-states.png" width="13"> LA, US.
 
 Unlike other developers, I only work with Shopify and my main skills are store setup and theme editing.<br>
 I'm experienced in working with HTML, CSS, JavaScript, and liquid (Shopify's templating language).<br>
