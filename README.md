@@ -2,23 +2,25 @@
 
 ### Welcome to my page. I'm X, a Shopify Web-Developer from <img src="./united-states.png" width="13"> LA, US.
 
-Unlike other developers, I only work with Shopify and my main skills are store setup and theme editing.<br>
-I'm experienced in working with HTML, CSS, JavaScript, and liquid (Shopify's templating language).<br>
-For examples of what I can build for you, you can take a look at my [personal website.](https://google.com)
-<br><br>
+
 ***Feel free to reach out if you have a question about my services or if you just want to say hi.*** 
 
 **👨‍💻 My services** 
 
-> 🏪 Complete store setup
+Do you need an eCommerce website or custom Shopify development?
+Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.
+Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://google.com) I can help and if I can't, no worries. There will be no charges made. I will make sure you are happy with the outcome before getting billed.
+Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
+
+> 🏪 Complete store setups
  > 
-> 🧭 Store migration (Woo-commerce, Big Commerce ...)
+> 🧭 Store migrations (Woo-commerce, Big Commerce ...)
  > 
 > 🎨 Theme customizations
  > 
-> ⚙️ Third-party app integration
+> ⚙️ Third-party app integrations
  > 
-> 🚀 Performance Optimization
+> 🚀 Performance Optimizations
  > 
 
 
@@ -32,6 +34,8 @@ For examples of what I can build for you, you can take a look at my [personal we
 <img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />
 <img align="left" alt="React" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" />
 <img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />
+<img align="left" alt="Shopify" width="26px" src="https://cdn.worldvectorlogo.com/logos/shopify.svg" style="padding-right:10px;" />
+<img align="left" alt="Liquid" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0880593e17581e11a586815f8e151514a5e6cc42/e7bfe/dist/img/icon11.svg" style="padding-right:10px;" />
 </div>
 
 
