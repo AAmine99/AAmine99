@@ -21,6 +21,11 @@
 
 **👨‍💻 My services** 
 
+Do you need an eCommerce website or custom Shopify development?
+Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.
+Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://google.com) I can help and if I can't, no worries. There will be no charges made. I will make sure you are happy with the outcome before getting billed.
+Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
+
 > 🏪 Complete store setups
  > 
 > 🧭 Store migrations (Woo-commerce, Big Commerce ...)
@@ -32,12 +37,6 @@
 > 🚀 Performance Optimizations
  > 
 
-<br />
-
-Do you need an eCommerce website or custom Shopify development?
-Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.
-Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://google.com) I can help and if I can't, no worries. There will be no charges made. I will make sure you are happy with the outcome before getting billed.
-Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
 
 ## 📫 Contact me:
 ![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/bitliu/)
