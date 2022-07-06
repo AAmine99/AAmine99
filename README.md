@@ -3,27 +3,6 @@
 ### Welcome to my page. I'm X, a Shopify Web-Developer from <img src="./united-states.png" width="13"> LA, US.
 
 
-***Feel free to reach out if you have a question about my services or if you just want to say hi.*** 
-
-**👨‍💻 My services** 
-
-Do you need an eCommerce website or custom Shopify development?
-Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.
-Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://google.com) I can help and if I can't, no worries. There will be no charges made. I will make sure you are happy with the outcome before getting billed.
-Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
-
-> 🏪 Complete store setups
- > 
-> 🧭 Store migrations (Woo-commerce, Big Commerce ...)
- > 
-> 🎨 Theme customizations
- > 
-> ⚙️ Third-party app integrations
- > 
-> 🚀 Performance Optimizations
- > 
-
-
 ## 🛠️ Languages and Tools:
 
 <div style="display:flex;align-items:center">
@@ -38,8 +17,27 @@ Here are some common tasks I’m asked to help with, but really anything you mig
 <img align="left" alt="Liquid" width="26px" src="https://d33wubrfki0l68.cloudfront.net/0880593e17581e11a586815f8e151514a5e6cc42/e7bfe/dist/img/icon11.svg" style="padding-right:10px;" />
 </div>
 
-
 <br /><br />
+
+**👨‍💻 My services** 
+
+> 🏪 Complete store setups
+ > 
+> 🧭 Store migrations (Woo-commerce, Big Commerce ...)
+ > 
+> 🎨 Theme customizations
+ > 
+> ⚙️ Third-party app integrations
+ > 
+> 🚀 Performance Optimizations
+ > 
+
+<br />
+
+Do you need an eCommerce website or custom Shopify development?
+Unlike other developers, I only work with Shopify and my focus areas are store setups and theme development.
+Did you work with other Developers/Designers who were not able to fix your issues? [Contact me!](https://google.com) I can help and if I can't, no worries. There will be no charges made. I will make sure you are happy with the outcome before getting billed.
+Here are some common tasks I’m asked to help with, but really anything you might need assistance with I can help.
 
 ## 📫 Contact me:
 ![Website Badge](https://img.shields.io/badge/-website-red?style=flat-square&logo=appveyor&logoColor=white&link=https://www.linkedin.com/in/bitliu/)
